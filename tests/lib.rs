@@ -182,6 +182,7 @@ mod show;
 #[cfg(unix)]
 mod signals;
 mod slash_operator;
+mod state_output;
 mod string;
 mod style;
 mod subsequents;
